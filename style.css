@@ -1,0 +1,117 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 40px 360px 0;
+    font-family: "微軟正黑體";
+    line-height: 1.5;
+  }
+  .wrap h1{
+    font-size: 50px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid black;
+  }
+  .wrap img{
+    margin: 48px 0;
+  }
+  .wrap h2{
+    font-size: 36px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+  }
+  .wrap h2 span{
+    padding-left: 16px;
+    font-size: 24px;
+    color: #A00404;
+  }
+  .profile li{
+    padding-top: 24px;
+    font-size: 24px;
+  }
+  .profile ul{
+    padding-bottom: 72px;
+  }
+  .education-list li{
+    padding-top: 24px;
+    font-size: 24px;
+  }
+  .skills{
+    background-color: #415165;
+    color: #FFFFFF;
+    padding-bottom: 50px;
+    margin-top: 70px;
+  }
+  .skills h3,.footer h3{
+    font-size: 32px;
+    text-align: center;
+    margin: 0 100px;
+    padding: 25px 0 10px;
+    border-bottom: 1px solid #ffffff;
+  }
+  .skills h3 span,.footer h3 span{
+    padding-left: 16px;
+  }
+  .skills ul{
+    margin-left: 500px;
+    padding-left: 30px;
+    border-left: 1px solid #ffffff;
+    padding-left: 30px;
+    margin-top: 15px;
+    font-size: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 400px;
+  }
+  .education{
+    padding-bottom: 72px
+  }
+  .experience{
+    margin-bottom: 72px;
+  }
+  .experience ul{
+    margin-left: 30px;
+    padding-left: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 640px;
+    border-left: 1px solid #96A9C4;
+  }
+  .experience img {
+    margin: 5px 0;
+  }
+  .experience h3{
+    font-size: 24px;
+    font-weight: bold;
+  }
+  .experience p{
+    font-size: 20px;
+    margin-right: 530px;
+  }
+  .footer{
+    background-color: #415165;
+    color: #ffffff;
+    text-align: center;
+  }
+  .footer li{
+    font-size: 24px;
+    padding: 8px;
+  }
+  .footer li a{
+    text-decoration: none;
+    color: #ffffff;
+  }
+  .footer li a:hover{
+    color: #02C874;
+  }
+  .footer .icon a{
+    display: block;
+    margin: 0 10px;
+  }
+  .footer .icon{
+    display: flex;
+    justify-content: center;
+    padding-top: 0;
+  }
