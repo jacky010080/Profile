@@ -78,6 +78,7 @@
     justify-content: space-between;
     height: 640px;
     border-left: 1px solid #96A9C4;
+    border-bottom: 1px solid #96A9C4;
   }
   .experience img {
     margin: 5px 0;
